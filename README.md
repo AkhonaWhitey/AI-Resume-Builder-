@@ -1,4 +1,4 @@
-# AI-Powered CV Builder
+# AI-Powered Resume/CV Builder
 
 Welcome to my **AI-powered CV Builder** - a smart and stylish web app that lets users create professional resumes instantly.
 
