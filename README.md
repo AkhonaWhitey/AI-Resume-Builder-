@@ -1,6 +1,6 @@
-# AI-Powered CV Builder (Built with Base44)
+# AI-Powered CV Builder
 
-Welcome to my **AI-powered CV Builder** — a smart and stylish web app built with **Base44** that lets users create professional resumes instantly.
+Welcome to my **AI-powered CV Builder** - a smart and stylish web app that lets users create professional resumes instantly.
 
 Designed to be **simple, beautiful, and powerful**, this builder features a clean interface, multiple resume templates, and live AI assistance to help users create the perfect CV in minutes.
 
@@ -9,10 +9,10 @@ Designed to be **simple, beautiful, and powerful**, this builder features a clea
 ##  Features
 
 ### Multi-Template CVs  
-Choose from **Corporate**, **Modern**, or **Minimalist** styles — each with unique layouts, fonts, and formatting.
+Choose from **Corporate**, **Modern**, or **Minimalist** styles - each with unique layouts, fonts, and formatting.
 
 ###  AI Resume Generator  
-Enter your basic info and let AI structure your professional CV instantly — formatted, polished, and job-ready.
+Enter your basic info and let AI structure your professional CV instantly - formatted, polished, and job-ready.
 
 ### Live Preview  
 See your CV update **in real-time** as you add or edit your content.
@@ -30,7 +30,7 @@ Automatically generate and download a matching cover letter with consistent styl
 Add your LinkedIn profile, key skills, and portfolio links directly to your CV.
 
 ###  Smart Layout  
-Minimal, responsive, and user-friendly interface — optimized for both desktop and mobile.
+Minimal, responsive, and user-friendly interface - optimized for both desktop and mobile.
 
 ---
 
@@ -45,12 +45,12 @@ Minimal, responsive, and user-friendly interface — optimized for both desktop 
 
 ## How It Works
 
-1. **Sign Up / Log In** — Create an account or continue as a guest.  
-2. **Enter Your Details** — Fill in personal info, experience, education, and skills.  
-3. **Add Links** — Include your LinkedIn profile and portfolio.  
-4. **Choose a Template** — Select from Corporate, Modern, or Minimal layouts.  
-5. **Preview in Real-Time** — See instant updates in the live preview panel.  
-6. **Generate or Download** — Click **Generate**, **Download PDF**, or **Copy CV Text** to save your final resume.  
+1. **Sign Up / Log In** - Create an account or continue as a guest.  
+2. **Enter Your Details** - Fill in personal info, experience, education, and skills.  
+3. **Add Links** - Include your LinkedIn profile and portfolio.  
+4. **Choose a Template** - Select from Corporate, Modern, or Minimal layouts.  
+5. **Preview in Real-Time** - See instant updates in the live preview panel.  
+6. **Generate or Download** - Click **Generate**, **Download PDF**, or **Copy CV Text** to save your final resume.  
 7. **(Optional)** Generate a matching **Cover Letter** with one click.
 
 ---
@@ -96,7 +96,7 @@ It’s part of my learning journey to combine **no-code tools, AI automation, an
 **Akhona Shiella Whitey**
 
 I am passionate about **AI, design, and making technology simple and accessible**.  
-This project reflects my goal to build digital tools that empower people to present their best selves professionally — beautifully and effortlessly.
+This project reflects my goal to build digital tools that empower people to present their best selves professionally - beautifully and effortlessly.
 
 
 ---
