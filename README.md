@@ -1,4 +1,4 @@
-# 🧠 AI-Powered CV Builder (Built with Base44)
+# AI-Powered CV Builder (Built with Base44)
 
 Welcome to my **AI-powered CV Builder** — a smart and stylish web app built with **Base44** that lets users create professional resumes instantly.
 
@@ -6,44 +6,44 @@ Designed to be **simple, beautiful, and powerful**, this builder features a clea
 
 ---
 
-## ✨ Features
+##  Features
 
-### 🧩 Multi-Template CVs  
+### Multi-Template CVs  
 Choose from **Corporate**, **Modern**, or **Minimalist** styles — each with unique layouts, fonts, and formatting.
 
-### 🤖 AI Resume Generator  
+###  AI Resume Generator  
 Enter your basic info and let AI structure your professional CV instantly — formatted, polished, and job-ready.
 
-### 🔄 Live Preview  
+### Live Preview  
 See your CV update **in real-time** as you add or edit your content.
 
-### 📄 Download PDF  
+### Download PDF  
 Export your CV with preserved fonts, spacing, and layout using the **PDFShift API** integration.
 
-### 📋 Copy CV Text  
+###  Copy CV Text  
 Quickly copy your complete CV content to the clipboard for easy sharing or external editing.
 
-### 💌 Cover Letter Generator  
+###  Cover Letter Generator  
 Automatically generate and download a matching cover letter with consistent style and tone.
 
-### 💼 Skills, LinkedIn & Portfolio Integration  
+###  Skills, LinkedIn & Portfolio Integration  
 Add your LinkedIn profile, key skills, and portfolio links directly to your CV.
 
-### 🎨 Smart Layout  
+###  Smart Layout  
 Minimal, responsive, and user-friendly interface — optimized for both desktop and mobile.
 
 ---
 
-## 🧱 Built With
+##  Built With
 
-- 🧠 **Base44 AI Builder** (no-code platform for AI logic, user data, and workflows)  
-- 🧾 **PDFShift API** (for converting styled HTML resumes into downloadable PDFs)  
-- 🌐 **HTML, CSS, JavaScript** (for dynamic CV preview and styling)  
-- ⚙️ **Custom Actions & Layout Components** (to manage templates, live preview, and downloads)
+-  **Base44 AI Builder** (no-code platform for AI logic, user data, and workflows)  
+-  **PDFShift API** (for converting styled HTML resumes into downloadable PDFs)  
+-  **HTML, CSS, JavaScript** (for dynamic CV preview and styling)  
+-  **Custom Actions & Layout Components** (to manage templates, live preview, and downloads)
 
 ---
 
-## 🧭 How It Works
+## How It Works
 
 1. **Sign Up / Log In** — Create an account or continue as a guest.  
 2. **Enter Your Details** — Fill in personal info, experience, education, and skills.  
@@ -55,7 +55,7 @@ Minimal, responsive, and user-friendly interface — optimized for both desktop 
 
 ---
 
-## 🎨 Templates Included
+##  Templates Included
 
 | Template | Description |
 |-----------|--------------|
@@ -67,7 +67,7 @@ Each template uses unique **HTML layouts and CSS classes** applied dynamically i
 
 ---
 
-## 🧠 About This Project
+##  About This Project
 
 This project was created using **Base44**, a no-code AI development platform, to explore how AI can assist users in building resumes **faster, smarter, and more efficiently**.
 
@@ -75,23 +75,23 @@ It’s part of my learning journey to combine **no-code tools, AI automation, an
 
 ---
 
-## 🚀 Future Improvements
+##  Future Improvements
 
-- ✨ Additional templates (Creative, Tech, Executive)
-- 🔗 LinkedIn import for instant profile-to-resume conversion
-- 🧩 AI job description matching for tailored resumes
-- 💬 Real-time resume scoring and improvement suggestions
-- 🌍 Localization and multi-language support
+-  Additional templates (Creative, Tech, Executive)
+-  LinkedIn import for instant profile-to-resume conversion
+-  AI job description matching for tailored resumes
+-  Real-time resume scoring and improvement suggestions
+-  Localization and multi-language support
 
 ---
 
 ## 🌐 Live Preview
 
-🔗 **Live Demo:** https://resume-ai-625630c4.base44.app/
+ **Live Demo:** https://resume-ai-625630c4.base44.app/
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Akhona Shiella Whitey**
 
